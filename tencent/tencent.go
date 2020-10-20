@@ -2,7 +2,7 @@ package tencent
 
 import (
 	"os"
-	"github.com/qor/oss"
+	"github.com/qorx/oss"
 	"io"
 	"fmt"
 	"io/ioutil"

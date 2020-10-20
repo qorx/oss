@@ -1,11 +1,11 @@
 # Qiniu
 
-[Qiniu](https://www.qiniu.com) backend for [QOR OSS](https://github.com/qor/oss)
+[Qiniu](https://www.qiniu.com) backend for [QOR OSS](https://github.com/qorx/oss)
 
 ## Usage
 
 ```go
-import "github.com/qor/oss/qiniu"
+import "github.com/qorx/oss/qiniu"
 
 func main() {
   storage := qiniu.New(&qiniu.Config{
